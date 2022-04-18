@@ -49,6 +49,4 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
           plugin_notable_types: commit, pull_request, issue
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
           repositories: 999
