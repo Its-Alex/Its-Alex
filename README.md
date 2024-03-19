@@ -13,6 +13,7 @@ finded on [Gitlab handbook](https://about.gitlab.com/handbook/).
 - [Readme about me](#readme-about-me)
 - [Table of contents](#table-of-contents)
 - [Who am I ?](#who-am-i-)
+- [How I use notifications](#how-i-use-notifications)
 - [Tips](#tips)
 
 # Who am I ?
@@ -22,6 +23,16 @@ I'm Alexandre, a [`software craftsman`](https://en.wikipedia.org/wiki/Software_c
 [`Fullstack Developer`](https://en.wikipedia.org/wiki/Full_stack) and
 [`DevOps`](https://en.wikipedia.org/wiki/DevOps) enthusiast, striving to
 comprehend the inner workings of all things.
+
+
+# How I use notifications
+
+Personnaly, I use smileys for short anser that don't need to trigger a notification:
+
+- ✅ I have noted the message or the task is complete or done
+- 👍🏼 I respond affirmatively to the message
+- 👀 I am currently reading the message
+- 🤔 I am currently reflecting on this message
 
 # Tips
 
