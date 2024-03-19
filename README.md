@@ -14,6 +14,7 @@ finded on [Gitlab handbook](https://about.gitlab.com/handbook/).
 - [Table of contents](#table-of-contents)
 - [Who am I ?](#who-am-i-)
 - [How I use notifications](#how-i-use-notifications)
+- [Why I use conventional comment](#why-i-use-conventional-comment)
 - [Tips](#tips)
 
 # Who am I ?
@@ -33,6 +34,15 @@ Personnaly, I use smileys for short anser that don't need to trigger a notificat
 - 👍🏼 I respond affirmatively to the message
 - 👀 I am currently reading the message
 - 🤔 I am currently reflecting on this message
+
+# Why I use conventional comment
+
+I think that [conventional comment](https://conventionalcomments.org/) brings
+several advantages:
+- Priority among comments
+- Perspective on the posted comment for the person reading it
+In my opinion, this allows for better understanding and maintains a more neutral
+aspect in the review.
 
 # Tips
 
