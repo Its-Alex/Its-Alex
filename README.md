@@ -25,6 +25,16 @@ I'm Alexandre, a [`software craftsman`](https://en.wikipedia.org/wiki/Software_c
 [`DevOps`](https://en.wikipedia.org/wiki/DevOps) enthusiast, striving to
 comprehend the inner workings of all things.
 
+I started learning C at home when I was sixteen years old. Quickly, I developed
+a real love for this field and chose to deepen my knowledge at school. This led 
+me to a preparatory class and the 42 school.
+
+I am a fervent supporter of open source and strive to contribute and help
+projects on Github or other platforms whenever possible. I am curious and love
+to learn and discover new things, which makes me a Jack-of-all-trades.
+
+I feel safe and happy in a structured environment. I think I'm better when I
+can create a mind map of my work environment in my head.
 
 # How I use notifications
 
