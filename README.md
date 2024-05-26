@@ -23,7 +23,7 @@ am curious and love to learn and discover new things, which makes me a
 Jack-of-all-trades.
 
 I try to put into practice [learn in public](https://www.swyx.io/learn-in-public),
-you can follow what I do in my [backlog](https://github.com/Its-Alex/backlog) and
+you can follow what I do in my [backlog](https://github.com/Its-Alex/backlog/issues) and
 see my [playground projects](https://github.com/Its-Alex?tab=repositories&q=playground).
 
 I feel safe and happy in a structured environment. I think I'm better when I
