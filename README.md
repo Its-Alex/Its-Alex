@@ -29,25 +29,7 @@ see my [playground projects](https://github.com/Its-Alex?tab=repositories&q=play
 I feel safe and happy in a structured environment. I think I'm better when I
 can create a mind map of my work environment in my head.
 
-# How I use notifications
-
-Personnaly, I use smileys for short anser that don't need to trigger a notification:
-
-- ✅ I have noted the message or the task is complete or done
-- 👍 I respond affirmatively to the message
-- 👀 I am currently reading the message
-- 🤔 I am currently reflecting on this message
-
-# Why I use conventional comment
-
-I think that [conventional comment](https://conventionalcomments.org/) brings
-several advantages:
-- Priority among comments
-- Perspective on the posted comment for the person reading it
-In my opinion, this allows for better understanding and maintains a more neutral
-aspect in the review.
-
-# Tips about me
+## Tips about me
 
 Here are some quick tips that will help you to understand me:
 
@@ -59,6 +41,13 @@ Here are some quick tips that will help you to understand me:
   safe debate.
 - I type too fast and make spelling mistakes where there isn't a native spell
   checker. I'm working on it. 😁
+
+## More
+
+You can find more of me on the following links:
+
+- [How I use notifications](/how-i-use-notifications.md)
+- [Why I use conventional comment](/why-i-use-conventional-comment.md)
 
 ## Idea
 
