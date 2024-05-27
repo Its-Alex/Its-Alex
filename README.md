@@ -35,10 +35,9 @@ Here are some quick tips that will help you to understand me:
 
 - By default, I tend to have high expectations, whether in reviews or during
   discussions. Feel free to bring it up to me, and I'll adjust to better fit the situation.
-- **You feel safe debating with me**. I find that ideas improve by being
-  examined from all angles. If it sounds like I'm disagreeing I'm most likely
-  just playing devil's advocate. This does rely on us being able to have a
-  safe debate.
+- **You can feel safe debating with me**. I find that ideas improve by being
+  examined from all angles. This does rely on us being able to have a
+  safe debate. If something goes wrong, please let me know so I can try to fix it.
 - I type too fast and make spelling mistakes where there isn't a native spell
   checker. I'm working on it. 😁
 
