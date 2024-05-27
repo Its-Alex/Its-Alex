@@ -6,10 +6,10 @@ to work.
 
 ## Who am I ?
 
-I'm Alexandre, a [`software craftsman`](https://en.wikipedia.org/wiki/Software_craftsmanship)
+I'm Alexandre, a [software craftsman](https://en.wikipedia.org/wiki/Software_craftsmanship)
 (as I frequently mention, ever since encountering this term). I work as a
-[`Fullstack Developer`](https://www.w3schools.com/whatis/whatis_fullstack.asp) and
-[`DevOps`](https://en.wikipedia.org/wiki/DevOps) enthusiast, striving to
+[Fullstack Developer](https://www.w3schools.com/whatis/whatis_fullstack.asp) and
+[DevOps](https://en.wikipedia.org/wiki/DevOps) enthusiast, striving to
 comprehend the inner workings of all things.
 
 I started learning [C](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -17,7 +17,7 @@ at home when I was sixteen years old. Quickly, I developed
 a real love for this field and chose to deepen my knowledge [42 school](https://42.fr/).
 
 I am a fervent supporter of
-[`open source`](https://en.wikipedia.org/wiki/Open_source) and strive to
+[open source](https://en.wikipedia.org/wiki/Open_source) and strive to
 contribute and help projects on Github or other platforms whenever possible. I
 am curious and love to learn and discover new things, which makes me a
 Jack-of-all-trades.
