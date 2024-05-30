@@ -35,6 +35,9 @@ Here are some quick tips that will help you to understand me:
 
 - By default, I tend to have high expectations, whether in reviews or during
   discussions. Feel free to bring it up to me, and I'll adjust to better fit the situation.
+- I have a strong focus on continuous improvement and am dedicated to resolving
+  issues thoroughly. When I identify a problem, I bring it up frequently and
+  am committed to seeing it through until it is fully resolved.
 - **You can feel safe debating with me**. I find that ideas improve by being
   examined from all angles. This does rely on us being able to have a
   safe debate. If something goes wrong, please let me know so I can try to fix it.
