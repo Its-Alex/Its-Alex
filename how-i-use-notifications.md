@@ -1,6 +1,6 @@
 # How I use notifications
 
-Personnaly, I use smileys for short anser that don't need to trigger a notification:
+Personnaly, I use smileys for short answer that don't need to trigger a notification:
 
 - ✅ I have noted the message or the task is complete or done
 - 👍 I respond affirmatively to the message
