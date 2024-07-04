@@ -26,6 +26,9 @@ I try to put into practice [learn in public](https://www.swyx.io/learn-in-public
 you can follow what I do in my [backlog](https://github.com/Its-Alex/backlog/issues) and
 see my [playground projects](https://github.com/Its-Alex?tab=repositories&q=playground).
 
+You can follow the tasks I am currently trying to work on through my
+[Kanban](https://github.com/users/Its-Alex/projects/2).
+
 I feel safe and happy in a structured environment. I think I'm better when I
 can create a mind map of my work environment in my head.
 
