@@ -14,7 +14,7 @@ comprehend the inner workings of all things.
 
 I started learning [C](https://en.wikipedia.org/wiki/C_(programming_language))
 at home when I was sixteen years old. Quickly, I developed
-a real love for this field and chose to deepen my knowledge [42 school](https://42.fr/).
+a real love for this field and chose to deepen my knowledge at [42 school](https://42.fr/).
 
 I am a fervent supporter of
 [open source](https://en.wikipedia.org/wiki/Open_source) and strive to
