@@ -6,9 +6,8 @@ to work.
 
 ## Who am I ?
 
-I'm Alexandre, a [software craftsman](https://en.wikipedia.org/wiki/Software_craftsmanship)
-(as I frequently mention, ever since encountering this term). I work as a
-[Fullstack Developer](https://www.w3schools.com/whatis/whatis_fullstack.asp) and
+I'm Alexandre, a [software craftsman](https://en.wikipedia.org/wiki/Software_craftsmanship).
+I work as a [Fullstack Developer](https://www.w3schools.com/whatis/whatis_fullstack.asp) and
 [DevOps](https://en.wikipedia.org/wiki/DevOps) enthusiast, striving to
 comprehend the inner workings of all things.
 
